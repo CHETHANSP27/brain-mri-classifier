@@ -30,8 +30,7 @@ ENV/
 .ipynb_checkpoints/
 *.ipynb
 
-# PyTorch
-*.pth
+# PyTorch (models tracked by Git LFS)
 *.pt
 
 # Data (too large for git)
